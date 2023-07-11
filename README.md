@@ -1,5 +1,5 @@
 # Data analysis of exact exchange
-Code and data analysis for manuscript:
+Data analysis performed for manuscript:
 
 _How important is the amount of exact exchange for spin-state energy ordering in DFT? Case study of Molybdenum carbide cluster, Mo4C2_
 
