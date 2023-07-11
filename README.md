@@ -1,7 +1,8 @@
 # Data analysis of exact exchange
 Data analysis performed for manuscript:
 
-_How important is the amount of exact exchange for spin-state energy ordering in DFT? Case study of Molybdenum carbide cluster, Mo4C2_
+_How important is the amount of exact exchange for spin-state energy ordering in DFT?
+Case study of Molybdenum carbide cluster, Mo4C2_
 
 Jiří Hostaš1,*, Kevin O. Pérez-Becerra2, Andreas M. Köster2, Patrizia Calaminici2, Lizandra Barrios-Herrera1, Maicon Pierre Lourenço3, Alain Tchagang4, Dennis R. Salahub1
 
