@@ -1,4 +1,4 @@
-# Data analysis of exact exchange
+# Data analysis of exact exchange in DFT
 Data analysis performed for manuscript:
 
 **_How important is the amount of exact exchange for spin-state energy ordering in DFT?
