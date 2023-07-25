@@ -5,6 +5,6 @@ Code author: Jiri Hostas
 
 Other collaborators: Kevin O. Pérez-Becerra, Andreas M. Köster, Patrizia Calaminici, Lizandra Barrios-Herrera, Maicon Pierre Lourenço, Alain Tchagang, and Dennis R. Salahub
 
-**_How important is the amount of exact exchange for spin-state energy ordering in DFT?
+Topic: **_How important is the amount of exact exchange for spin-state energy ordering in DFT?
 Case study of Molybdenum carbide cluster, Mo4C2_**
 
