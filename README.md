@@ -2,6 +2,7 @@
 This work has been done as a part of AI4D project (collaboration of researchers from University of Calgary, CINVESTAV, National Research Council Canada and Federal University of Espírito Santo) and is currently under review in JCP journal.
 
 Code author: Jiri Hostas
+
 Other collaborators: Kevin O. Pérez-Becerra, Andreas M. Köster, Patrizia Calaminici, Lizandra Barrios-Herrera, Maicon Pierre Lourenço, Alain Tchagang, and Dennis R. Salahub
 
 **_How important is the amount of exact exchange for spin-state energy ordering in DFT?
