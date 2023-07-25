@@ -8,4 +8,4 @@ This work has been done as a part of AI4D project (collaboration of researchers 
 **Topic**: _How important is the amount of exact exchange for spin-state energy ordering in DFT?
 Case study of Molybdenum carbide cluster, Mo4C2_
 
-<img align="center" src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=75% height=75%>
+<img align="centre" src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=75% height=75%>
