@@ -9,5 +9,5 @@ This work has been done as a part of AI4D project (collaboration of researchers 
 Case study of Molybdenum carbide cluster, Mo4C2_
 
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=75% height=75%>
+  <img src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=85% height=85%>
 </p>
