@@ -11,5 +11,5 @@ Case study of Molybdenum carbide cluster, Mo4C2_
 **Graphical abstract:**
 
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=85% height=85%>
+  <img src="https://github.com/jiri-hostas/Data-analysis-of-exact-exchange/blob/main/Graphics/Abstract.jpg" width=95% height=95%>
 </p>
