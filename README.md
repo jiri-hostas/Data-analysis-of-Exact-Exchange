@@ -1,5 +1,6 @@
 # Data analysis of exact exchange in DFT
-This work has been done as a part of AI4D project (collaboration of researchers from University of Calgary, CINVESTAV, National Research Council Canada and Federal University of Espírito Santo) and is currently under review in JCP journal.
+This work has been done as a part of AI4D project (collaboration of researchers from University of Calgary, CINVESTAV, National Research Council Canada and Federal University of Espírito Santo) and has been published in J. Chem. Phys. journal at https://doi.org/10.1063/5.0169409
+
 
 **Code by**: Jiri Hostas
 
